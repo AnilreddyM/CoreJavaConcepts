@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="corejava.main" target="1.8" />
+      <module name="corejava.test" target="1.8" />
       <module name="corejava1.main" target="1.8" />
       <module name="corejava1.test" target="1.8" />
     </bytecodeTargetLevel>
